@@ -1,0 +1,1 @@
+In this SQL project for a AtliQ hardware, I focused on generating customer-related insights by fulfilling specific business requests. This included creating reports like the Gross Sales Report, analyzing customer behavior, and sales trends. Through SQL queries, I provided valuable data insights to support better customer-focused decision-making.
